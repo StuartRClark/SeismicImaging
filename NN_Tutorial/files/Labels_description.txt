@@ -1,0 +1,9 @@
+#MNEM     .UNIT               Curve #DESCRIPTION
+#-----    -----               ----   --------------
+ DEPTH    .M                  : 1     DEPTH
+ RHOB     .kg/m3              : 2     Density
+ DT       .us/m               : 3     Sonic
+ GR       .API                : 4     Gamma Ray
+ AI       .(m/s)*(kg/m3)      : 5     P-Impedance
+ AI_rel   .(m/s)*(kg/m3)      : 6     P-Impedance_rel
+ PHIE     .fraction           : 7     Porosity
