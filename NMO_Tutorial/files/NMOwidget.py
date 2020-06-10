@@ -2,7 +2,7 @@ import warnings
 warnings.filterwarnings('ignore') # ignore warnings: only use this once you are sure things are working
 from IPython.display import set_matplotlib_formats
 import matplotlib
-from SimPEG.Utils import download
+from SimPEG.utils import download
 set_matplotlib_formats('png')
 matplotlib.rcParams['savefig.dpi'] = 70 # Change this to adjust figure size
 import numpy as np
