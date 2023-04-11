@@ -1,1 +1,1 @@
-# PTRL5014_2019
+# Files for Seismic Imaging Course MERE2002/5002/6002
